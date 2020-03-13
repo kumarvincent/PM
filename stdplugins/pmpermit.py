@@ -17,9 +17,9 @@ CONTINOUS_MSG_COUNT=0 #for bot and spam protection
  #for bot verification
 UNIBORG_USER_BOT_WARN_ZERO = "```Blocked! Thanks for the spam.```"
 UNIBORG_USER_BOT_NO_WARN = """```
-Hee HAA! This is a bot. Don't fret.\nMy master hasn't approved you to PM.\nPlease
- wait for my master to look in, he mostly approves PMs.\n
-
+Hee HAA! This is a bot. Don't fret.\nMy Boss Shiv hasn't approved you to PM.\nPlease
+ wait for my Boss Shiv to look in, he mostly approves PMs.\n
+Wait some Time ,until Shiv approves you!!!
 ```\n
 
 """
